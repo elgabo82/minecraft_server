@@ -9,8 +9,8 @@ Referencias: https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server
 
 
 # Instrucciones
-Estos pasos del grupo y usuario son opcionales, si los deseas ejectuar; debes quitar los comentarios en el archivo
-minecraft-server.service
+Estos pasos del grupo y usuario son opcionales, si los deseas ejectuar; debes quitar los comentarios en el archivo minecraft-server.service
+
 \#User=minecraft
 \#Group=minecraft
 
