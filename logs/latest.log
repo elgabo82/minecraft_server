@@ -1,68 +1,35 @@
-[13:47:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:47:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:47:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:47:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:47:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:47:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:47:18] [main/INFO]: Reloading ResourceManager: Default
-[13:47:20] [Worker-Main-2/INFO]: Loaded 7 recipes
-[13:47:21] [Worker-Main-2/INFO]: Loaded 927 advancements
-[13:47:24] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[13:47:24] [Server thread/INFO]: Loading properties
-[13:47:24] [Server thread/INFO]: Default game type: SURVIVAL
-[13:47:24] [Server thread/INFO]: Generating keypair
-[13:47:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:47:25] [Server thread/INFO]: Using epoll channel type
-[13:47:25] [Server thread/INFO]: Preparing level "world"
-[13:47:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:47:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:47:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[13:47:34] [Worker-Main-2/INFO]: Preparing spawn area: 66%
-[13:47:34] [Worker-Main-2/INFO]: Preparing spawn area: 67%
-[13:47:35] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:35] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:36] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:36] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:37] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:37] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:38] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:38] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:39] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:39] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:40] [Server thread/INFO]: Preparing spawn area: 83%
-[13:47:40] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[13:47:41] [Server thread/INFO]: Preparing spawn area: 84%
-[13:47:41] [Worker-Main-2/INFO]: Preparing spawn area: 85%
-[13:47:42] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[13:47:42] [Worker-Main-2/INFO]: Preparing spawn area: 87%
-[13:47:43] [Worker-Main-2/INFO]: Preparing spawn area: 88%
-[13:47:43] [Worker-Main-2/INFO]: Preparing spawn area: 89%
-[13:47:44] [Worker-Main-2/INFO]: Preparing spawn area: 89%
-[13:47:44] [Server thread/INFO]: Preparing spawn area: 91%
-[13:47:45] [Worker-Main-2/INFO]: Preparing spawn area: 91%
-[13:47:45] [Worker-Main-2/INFO]: Preparing spawn area: 91%
-[13:47:46] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[13:47:46] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[13:47:47] [Worker-Main-2/INFO]: Preparing spawn area: 95%
-[13:47:47] [Worker-Main-2/INFO]: Preparing spawn area: 97%
-[13:47:48] [Worker-Main-2/INFO]: Preparing spawn area: 99%
-[13:47:48] [Server thread/INFO]: Time elapsed: 22984 ms
-[13:47:48] [Server thread/INFO]: Done (23.242s)! For help, type "help"
-[13:47:48] [Server thread/INFO]: Starting GS4 status listener
-[13:47:48] [Server thread/INFO]: Thread Query Listener started
-[13:47:48] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[10:47:08] [Server thread/INFO]: G3M0_XD[/186.178.66.122:4884] logged in with entity id 109243 at (-211.65598385054687, 57.5625, -65.52997796376884)
+[10:47:08] [Server thread/INFO]: G3M0_XD joined the game
+[11:02:24] [Server thread/INFO]: G3M0_XD lost connection: Disconnected
+[11:02:24] [Server thread/INFO]: G3M0_XD left the game
+[12:23:11] [Server thread/INFO]: Jose el pro[/157.100.93.59:18730] logged in with entity id 111033 at (-203.6796996139941, 63.0, -49.567335449267645)
+[12:23:11] [Server thread/INFO]: Jose el pro joined the game
+[12:24:12] [Server thread/INFO]: Jose el pro lost connection: Disconnected
+[12:24:12] [Server thread/INFO]: Jose el pro left the game
+[12:37:14] [Server thread/INFO]: maxiXD2010[/184.88.227.167:54515] logged in with entity id 111202 at (-202.1819162356423, 67.0, -57.65118801478388)
+[12:37:14] [Server thread/INFO]: maxiXD2010 joined the game
+[12:37:44] [Server thread/INFO]: maxiXD2010 lost connection: Timed out
+[12:37:44] [Server thread/INFO]: maxiXD2010 left the game
+[12:38:25] [Server thread/INFO]: maxiXD2010[/184.88.227.167:54521] logged in with entity id 111267 at (-202.1819162356423, 67.0, -57.65118801478388)
+[12:38:25] [Server thread/INFO]: maxiXD2010 joined the game
+[12:38:42] [Server thread/INFO]: maxiXD2010 lost connection: Timed out
+[12:38:42] [Server thread/INFO]: maxiXD2010 left the game
+[12:39:17] [Server thread/INFO]: maxiXD2010[/184.88.227.167:55869] logged in with entity id 111301 at (-202.1819162356423, 67.0, -57.65118801478388)
+[12:39:17] [Server thread/INFO]: maxiXD2010 joined the game
+[12:52:36] [Server thread/INFO]: Jose el pro[/157.100.93.59:18794] logged in with entity id 113168 at (-203.5447043534773, 63.0, -51.34883015246513)
+[12:52:36] [Server thread/INFO]: Jose el pro joined the game
+[13:03:25] [Server thread/INFO]: maxiXD2010 was slain by Zombie
+[13:05:11] [Server thread/INFO]: <maxiXD2010> Jose el pro
+[13:08:07] [Server thread/INFO]: <Jose el pro> yo sere la estrella de tiktok
+[13:10:53] [Server thread/INFO]: Jose el pro was shot by Skeleton
+[13:12:28] [Server thread/INFO]: leandro2013ecu[/186.178.66.122:5051] logged in with entity id 115669 at (-207.66393904608995, 67.0, -57.98894732397024)
+[13:12:28] [Server thread/INFO]: leandro2013ecu joined the game
+[13:13:12] [Server thread/INFO]: <Jose el pro> este es un terreno
+[13:15:12] [Server thread/INFO]: leandro2013ecu lost connection: Disconnected
+[13:15:12] [Server thread/INFO]: leandro2013ecu left the game
+[13:17:51] [Server thread/INFO]: Jose el pro was blown up by Creeper
+[13:18:20] [Server thread/INFO]: maxiXD2010 was slain by Zombie
+[13:18:51] [Server thread/INFO]: maxiXD2010 lost connection: Timed out
+[13:18:51] [Server thread/INFO]: maxiXD2010 left the game
+[13:19:13] [Server thread/INFO]: Jose el pro lost connection: Disconnected
+[13:19:13] [Server thread/INFO]: Jose el pro left the game
